@@ -17,7 +17,7 @@ A simple web application that tells Melbourne residents whether they need to bri
 
 ## Live Demo
 
-Visit [https://[your-username].github.io/brolly-checker/](https://[your-username].github.io/brolly-checker/) to see the app in action.
+Visit [https://justinpdaly.github.io/brolly-checker/](https://[your-username].github.io/brolly-checker/) to see the app in action.
 
 ## Technologies Used
 

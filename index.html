@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>To Brolly or Not To Brolly</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <button class="theme-btn" id="themeToggle">🌙</button>
+        <h1>To Brolly or Not To Brolly</h1>
+        
+        <div class="weather-card">
+            <div id="loading" class="loading">Checking Melbourne weather... ⌛</div>
+            <div id="error" class="error" style="display: none;"></div>
+            <div id="weather-content" style="display: none;">
+                <div class="recommendation" id="recommendation"></div>
+                <div class="weather-info" id="weather-info"></div>
+                <div class="weather-details" id="weather-details"></div>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
